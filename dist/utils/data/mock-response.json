@@ -1,0 +1,60 @@
+{
+    "weatherInfo": {
+        "coord": {
+            "lon": 22.9439,
+            "lat": 40.6403
+        },
+        "weather": [
+            {
+                "id": 801,
+                "main": "Clouds",
+                "description": "few clouds",
+                "icon": "02d"
+            }
+        ],
+        "base": "stations",
+        "main": {
+            "temp": 299.55,
+            "feels_like": 299.55,
+            "temp_min": 297.24,
+            "temp_max": 301.74,
+            "pressure": 1019,
+            "humidity": 53
+        },
+        "visibility": 10000,
+        "wind": {
+            "speed": 4.12,
+            "deg": 300
+        },
+        "clouds": {
+            "all": 20
+        },
+        "dt": 1662631509,
+        "sys": {
+            "type": 2,
+            "id": 2035774,
+            "country": "GR",
+            "sunrise": 1662609718,
+            "sunset": 1662655823
+        },
+        "timezone": 10800,
+        "id": 734077,
+        "name": "Thessaloniki",
+        "cod": 200
+    },
+    "temperature": 26.400000000000034,
+    "smsResult": {
+        "trackingId": "8328725a-3d5d-467b-951a-27fd4b6d7fdc",
+        "status": "Queued",
+        "createdAt": "2022-09-08T10:05:33.136Z",
+        "from": "amdTelecom",
+        "to": "+919944181144",
+        "body": "Weather Report ==> city : Thessaloniki ,temperature :  26.400000000000034 C",
+        "bodyAnalysis": {
+            "parts": 1,
+            "unicode": false,
+            "characters": 75
+        },
+        "flash": false
+    }
+}
